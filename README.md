@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm a Software Engineer that passionate about Web Development and<br>interested in Frontend Development and UI/UX Design. I am currently focused on learning<br>more about Frontend Development. 
+I'm a Software Engineer that passionate about Web Development and interested in Frontend Development and UI/UX Design. I am currently focused on learning more about Frontend Development. 
 
 
 ## 🌐 Socials:
@@ -13,5 +13,3 @@ I'm a Software Engineer that passionate about Web Development and<br>interested 
 ![](https://github-readme-stats.vercel.app/api?username=tedaditya&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tedaditya&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tedaditya&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=tedaditya&icon=0&color=6)](https://visitcount.itsvg.in)
