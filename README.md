@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tedy</h1>
 <h3 align="center">I'm a Indonesian Software Engineer that passionate about Web Development and interested in Frontend Development and UI/UX Design. I am currently focused on learning more about Frontend Development.</h3>
 
-<p align="left"> <a href="https://twitter.com/tedaditya" target="blank"><img src="https://img.shields.io/twitter/follow/tedaditya?logo=twitter&style=for-the-badge" alt="tedaditya" /></a> </p>
+<p align="center"> <a href="https://twitter.com/tedaditya" target="blank"><img src="https://img.shields.io/twitter/follow/tedaditya?logo=twitter&style=for-the-badge" alt="tedaditya" /></a> </p>
 
 - 🌱 I’m currently learning **Front-End Development and UI/UX Design**
 
