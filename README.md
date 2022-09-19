@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tedy</h1>
 <h3 align="center">I'm a Indonesian Software Engineer that passionate about Web Development and interested in Frontend Development and UI/UX Design. I am currently focused on learning more about Frontend Development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tedaditya&label=Profile%20views&color=0e75b6&style=flat" alt="tedaditya" /> </p>
-
 <p align="left"> <a href="https://twitter.com/tedaditya" target="blank"><img src="https://img.shields.io/twitter/follow/tedaditya?logo=twitter&style=for-the-badge" alt="tedaditya" /></a> </p>
 
 - 🌱 I’m currently learning **Front-End Development and UI/UX Design**
@@ -37,3 +35,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tedaditya&" alt="tedaditya" /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tedaditya" alt="tedaditya" /></a> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tedaditya&label=Profile%20views&color=0e75b6&style=flat" alt="tedaditya" /> </p>
